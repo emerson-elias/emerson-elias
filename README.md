@@ -1,7 +1,8 @@
 ### 🦊 Olá! Eu sou Emerson Elias 🍃
 
-<p>🎓 Sou Técnico em Desenvolvimento de Sistemas</p>
-<p> 🏢 Trabalho como Analista de Suporte</p>
+<p>🖥️ Sou Técnico em Desenvolvimento de Sistemas</p>
+<p>🏢 Trabalho como Analista de Suporte</p>
+<p>📌 Sou um grande amante da tecnologia e desde cedo descobri minha paixão pelo desenvolvimento.</p>
 
 ### ⭐ GitHub Stats
 [![card](https://github-readme-stats.vercel.app/api?username=emerson-elias&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
