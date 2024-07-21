@@ -1,10 +1,12 @@
-### Olá! Eu sou Emerson Elias 🦊🍃
+### 🦊 Olá! Eu sou Emerson Elias 🍃
 
+<p>🎓 Sou Técnico em Desenvolvimento de Sistemas</p>
+<p> 🏢 Trabalho como Analista de Suporte</p>
+
+### ⭐ GitHub Stats
 [![card](https://github-readme-stats.vercel.app/api?username=emerson-elias&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=emerson-elias&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-Linguagens e Tecnologias que mais utilizo
+## 🚀 Minhas Habilidades
 <div style="display: inline_block">
     <img align="center" alt="Emerson-Elias-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Emerson-Elias-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -20,6 +22,7 @@ Linguagens e Tecnologias que mais utilizo
 <hr>
 
 <div>
+    <p>💬 Dúvidas? Faça suas perguntas ⬇️</p>
   <a href="https://www.facebook.com/emerson.emersoneliassodremorais/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"/></a> 
   <a href="https://www.instagram.com/emersoneliass_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:emersonees808@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
