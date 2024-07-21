@@ -1,30 +1,35 @@
 ### 🦊 Olá! Eu sou Emerson Elias 🍃
 #
-<div align="left">
-  <a style="margin: 10px;">
+ 
+<div style=" height: 200px;">
+    <img src="/.github/workflows/dev.gif" alt="" height="200px" align="right">
     <p>🖥️ Sou Técnico em Desenvolvimento de Sistemas</p>
     <p>🏢 Trabalho como Analista de Suporte</p>
-    <p>📌 Sou um grande amante da tecnologia e desde cedo descobri minha paixão pelo desenvolvimento.</p>
-  </a>
-  <a style="margin: 10px;">
-    <img src="/.github/workflows/dev.gif" align="right" alt="" height="190px">
-  </a>
+    <p>📌 Sou um grande amante da tecnologia e desde cedo descobri minha paixão pelo desenvolvimento</p>
+    <p>📈 Projetos em desenvolvimento</p>
+  <br>
 </div>
 
-### ⭐ GitHub Stats
+#
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=emerson-elias&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+### ⭐ GitHub Stats
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=emerson-elias&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="160" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emerson-elias&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="160" alt="languages graph"  />
+</div>
+
 ## 🚀 Minhas Habilidades
+
 <div style="display: inline_block">
-    <img align="center" alt="Emerson-Elias-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Emerson-Elias-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Emerson-Elias-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Emerson-Elias-CSS" height="40" width="50"" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
               <img align="center" alt="Emerson-Elias-sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
-    <img align="center" alt="Emerson-Elias-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-            <img align="center" alt="Emerson-Elias-boostrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />       
-            <img align="center" alt="Emerson-Elias-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />         
-            <img align="center" alt="Emerson-Elias-sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
-  <img align="center" alt="Emerson-Elias-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Emerson-Elias-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">       
+    <img align="center" alt="Emerson-Elias-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+            <img align="center" alt="Emerson-Elias-boostrap" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />       
+            <img align="center" alt="Emerson-Elias-java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />         
+            <img align="center" alt="Emerson-Elias-sql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
+  <img align="center" alt="Emerson-Elias-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Emerson-Elias-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">       
 </div>
 
 <hr>
