@@ -1,14 +1,18 @@
 ### 🦊 Olá! Eu sou Emerson Elias 🍃
-
-<div>
+#
+<div align="left">
+  <a style="margin: 10px;">
     <p>🖥️ Sou Técnico em Desenvolvimento de Sistemas</p>
     <p>🏢 Trabalho como Analista de Suporte</p>
     <p>📌 Sou um grande amante da tecnologia e desde cedo descobri minha paixão pelo desenvolvimento.</p>
-    
+  </a>
+  <a style="margin: 10px;">
+    <img src="/.github/workflows/dev.gif" align="right" alt="" height="190px">
+  </a>
 </div>
 
 ### ⭐ GitHub Stats
-[![card](https://github-readme-stats.vercel.app/api?username=emerson-elias&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=emerson-elias&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ## 🚀 Minhas Habilidades
 <div style="display: inline_block">
