@@ -1,9 +1,8 @@
 ### 🦊 Olá! Eu sou Emerson Elias 🍃
 #
  
-<div style=" height: 200px;">
+<div>
     <img src="/.github/workflows/dev.gif" alt="" height="200px" align="right">
- <br>
     <p>🖥️ Sou Técnico em Desenvolvimento de Sistemas</p>
     <p>🏢 Trabalho como Analista de Suporte</p>
     <p>📌 Sou um grande amante da tecnologia e desde cedo descobri minha paixão pelo desenvolvimento</p>
