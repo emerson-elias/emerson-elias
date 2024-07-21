@@ -1,8 +1,11 @@
 ### 🦊 Olá! Eu sou Emerson Elias 🍃
 
-<p>🖥️ Sou Técnico em Desenvolvimento de Sistemas</p>
-<p>🏢 Trabalho como Analista de Suporte</p>
-<p>📌 Sou um grande amante da tecnologia e desde cedo descobri minha paixão pelo desenvolvimento.</p>
+<div>
+    <p>🖥️ Sou Técnico em Desenvolvimento de Sistemas</p>
+    <p>🏢 Trabalho como Analista de Suporte</p>
+    <p>📌 Sou um grande amante da tecnologia e desde cedo descobri minha paixão pelo desenvolvimento.</p>
+    
+</div>
 
 ### ⭐ GitHub Stats
 [![card](https://github-readme-stats.vercel.app/api?username=emerson-elias&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -34,5 +37,5 @@
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emerson-elias/emerson-elias/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emerson-elias/emerson-elias/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/emerson-elias/emerson-elias/output/github-contribution-grid-snake.svg">
 </picture>
