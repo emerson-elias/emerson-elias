@@ -4,7 +4,7 @@
 <div>
     <img src="/.github/workflows/dev.gif" alt="" height="200px" align="right">
     <p>🖥️ Sou Técnico em Desenvolvimento de Sistemas</p>
-    <p>🏢 Trabalho como Analista de Suporte</p>
+    <p>🏢 Analista de Suporte - Líder Comércio e Indústria</p>
     <p>📌 Sou um grande amante da tecnologia e desde cedo descobri minha paixão pelo desenvolvimento</p>
     <p>📈 Projetos em desenvolvimento</p>
   <br>
