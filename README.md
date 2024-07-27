@@ -5,7 +5,7 @@
 <div>
   <img align="right" src="/.github/workflows/online.gif" alt="Como se centraliza isso?" style="height: 200px;">
   <div>
-    <p>🖥️ Sou Técnico em Desenvolvimento de Sistemas </p>
+    <p>🖥️ Desenvolvedor Front - End </p>
     <p>🏢 Analista de Suporte - Líder Comércio e Indústria </p>
     <p>📌 Sou um grande amante da tecnologia e desde cedo descobri minha paixão pelo desenvolvimento </p>
     <p>📈 Projetos em desenvolvimento </p>
