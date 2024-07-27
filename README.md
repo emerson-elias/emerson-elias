@@ -1,13 +1,15 @@
-### 🦊 Olá! Eu sou Emerson Elias 🍃
-#
- 
-<div style="display: flex; flex-direction: row; align-items: center; flex-wrap: wrap;  justify-content: space-between;">
-  <img src="/.github/workflows/dev.gif" alt="" style="height: 200px; margin-right: 20px;">
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá+Visitante+👋+!;+Eu+sou+Emerson+Elias+!;Seja+Bem+Vindo(a)+😊!;"/>
+</h1>
+
+<div>
+  <img align="right" src="/.github/workflows/online.gif" alt="Como se centraliza isso?" style="height: 200px;">
   <div>
-    <p>🖥️ Sou Técnico em Desenvolvimento de Sistemas</p>
-    <p>🏢 Analista de Suporte - Líder Comércio e Indústria</p>
-    <p>📌 Sou um grande amante da tecnologia e desde cedo descobri minha paixão pelo desenvolvimento</p>
-    <p>📈 Projetos em desenvolvimento</p>
+    <p>🖥️ Sou Técnico em Desenvolvimento de Sistemas </p>
+    <p>🏢 Analista de Suporte - Líder Comércio e Indústria </p>
+    <p>📌 Sou um grande amante da tecnologia e desde cedo descobri minha paixão pelo desenvolvimento </p>
+    <p>📈 Projetos em desenvolvimento </p>
+   <br>
   </div>
 </div>
 
