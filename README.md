@@ -3,7 +3,7 @@
 </h1>
 
 <div>
-  <img align="right" src="/.github/workflows/online.gif" alt="Como se centraliza isso?" style="height: 200px;">
+  <img align="right" src="/.github/workflows/assets/online.gif" alt="Como se centraliza isso?" style="height: 200px;">
   <div>
     <p>🖥️ Desenvolvedor Front - End </p>
     <p>🏢 Analista de Suporte - Líder Comércio e Indústria </p>
